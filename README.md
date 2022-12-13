@@ -3,9 +3,8 @@
 <!--
 **nihat-js/nihat-js** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
- Here are  my portfolios
- 
- #Advanced : https://github.com/nihat-js/portfolio-advanced
+# Here are  my portfolios
+## Advanced : https://github.com/nihat-js/portfolio-advanced
 
 Here are some ideas to get you started:
 
