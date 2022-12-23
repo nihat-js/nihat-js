@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nihat</h1>
 <h3 align="center">A passionate frontend developer from Azerbaijan</h3>
 
-🏠 I live in Baku,Azerbaijan
+🏠 I live in Baku,Azerbaijan <br>
 🤝 Currently I am looking for an opportunity to develop my career <br>
 
 
