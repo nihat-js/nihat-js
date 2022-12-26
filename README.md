@@ -14,8 +14,10 @@
 
 <h2> Some example works </h2>
 <ul>
-  <li> Philantrophy Website  <a href='https://nihat-js.github.io/philantrophy/'>  Demo </a>  </li>
-  
+   <li> Portfolio 1  <a href='https://nihat-js.github.io/portfolio-advanced/'> Demo </a> </li> 
+  <li> Portfolio 2  <a href='https://nihat-js.github.io/sublime-portfolio/'> Demo </a> </li> 
+  <li> Mina : e-commerce application with card feaure written with pure JavaScript ( local storage ) <a href='https://nihat-js.github.io/mina/'> Demo </a>    </li>
+  <li> Philantrophy : written with HTML,SCSS   <a href='https://nihat-js.github.io/philantrophy/'>  Demo </a>  </li>
 </ul>  
 
 ---
