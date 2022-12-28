@@ -18,7 +18,7 @@
   <li> Portfolio 2  <a href='https://nihat-js.github.io/sublime-portfolio/'> Demo </a> </li> 
   <li> Mina : e-commerce application with card feaure written with pure JavaScript ( local storage ) <a href='https://nihat-js.github.io/mina/'> Demo </a>    </li>
   <li> Philantrophy : written with HTML,SCSS   <a href='https://nihat-js.github.io/philantrophy/'>  Demo </a>  </li>
-  <li> Modern business : Written with react,react hooks, react-router  4 pages are active home,about,contact,pricing <a>  Demo </a>
+  <li> Modern business : Written with react,react hooks, react-router  4 pages are active home,about,contact,pricing <a href='https://modern-business-template.vercel.app/'>  Demo </a>
 </ul>  
 
 ---
