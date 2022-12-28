@@ -25,7 +25,7 @@
    <li>
       Countries : react application written with  useReducer 
       <a href='https://rest-countries-lime.vercel.app/'> Demo </a>  
-      <a href='https://github.com/nihat-js/rest-countries' > Repo </a>  <
+      <a href='https://github.com/nihat-js/rest-countries' > Repo </a>  
      </li>    
 </ul>  
 
