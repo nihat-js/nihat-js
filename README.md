@@ -23,7 +23,7 @@
      <a href='https://modern-business-template.vercel.app/'>  Demo </a>
    </li>
    <li>
-      Countries : react application written with  useReducer 
+      Countries : react+vite app written with  useReducer 
       <a href='https://rest-countries-lime.vercel.app/'> Demo </a>  
       <a href='https://github.com/nihat-js/rest-countries' > Repo </a>  
      </li>    
