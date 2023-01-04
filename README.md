@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Azerbaijan</h3>
 
 🏠 I live in Baku,Azerbaijan <br>
-🤝 Currently I am looking for an opportunity to develop my career <br>
+🤝 Currently I am looking for an opportunity to develop my career. <br>
 
 
 # 💻 Tech Stack:
