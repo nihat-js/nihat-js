@@ -23,9 +23,9 @@
    <li> 
       Three Island 
       <a href='https://three-island.vercel.app/'>   Demo </a> 
-      <a href='https://github.com/nihat-js?tab=repositories'> Repo </a>    
+      <a href='https://github.com/nihat-js/three-island'> Repo </a>    
    </li>
- <ul>  
+ </ul>  
    
    
 
