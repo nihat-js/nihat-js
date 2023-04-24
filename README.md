@@ -27,7 +27,10 @@
    </li>
  </ul>  
    
-   
+<h3> API </h3>
+<ul>
+  <li> <a href=" https://nihatapi.vercel.app/"> Magic  </li>
+</ul>
 
 <h3>  Apps </h3>
 <ul>
