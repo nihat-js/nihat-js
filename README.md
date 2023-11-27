@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nihat</h1>
-<h3 align="center">A passionate frontend developer from Azerbaijan</h3>
+<h3 align="center"> Full stack developer JS, PHP </h3>
 
-🏠 I live in Baku,Azerbaijan <br>
-🤝 Currently I am looking for an opportunity to develop my career. <br>
+🏠 live in Baku,Azerbaijan <br>
+
 
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
