@@ -50,17 +50,12 @@
       <a href='https://rest-countries-lime.vercel.app/'> Demo </a>  
       <a href='https://github.com/nihat-js/rest-countries' > Repo </a>  
     </li>    
+   <li>
+      Baking Landing Page (HTML,CSS)  <a href='https://nihat-js.github.io/baking-landing-page/'> Demo </a> <a href='https://github.com/baking-landing-page/>Repo  </a>  </p>
+   </li>
 </ul>  
 
-<h3> Sub Apps </h3>
-<ul>
-  <li> 
-    Calculator App with redux <a href='https://redux-calculator-brown.vercel.app/'> DEMO  </> <a href='https://github.com/nihat-js/redux-calculator'> Repo  </>    </li> 
-</ul>   
 
-<h3>  Landing Pages </h3>
-<p>
-   Baking Landing Page (HTML,CSS)  <a href='https://nihat-js.github.io/baking-landing-page/'> Demo </a> <a href='https://github.com/baking-landing-page/>Repo  </a>  </p>
    
 # 📊 GitHub Stats:
 
