@@ -14,21 +14,6 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 
-<h3> Three JS Apps </h3>
-
-<ul>
-   <li> 
-      Three Island 
-      <a href='https://three-island.vercel.app/'>   Demo </a> 
-      <a href='https://github.com/nihat-js/three-island'> Repo </a>    
-   </li>
- </ul>  
-   
-<h3> API </h3>
-<ul>
-  <li> <a href=" https://nihatapi.vercel.app/"> Magic  </li>
-</ul>
-
 <h3> Packages</h3>
 <ul>
    <li> Neobit Package can be used as  JSON Server with (optional sample date) by installing global or as http server with cool syntax   
@@ -37,6 +22,13 @@
 
 <h3>  Apps </h3>
 <ul>
+
+     <li> <a href=" https://nihatapi.vercel.app/"> MagicApi - alternative to jsonplaceholder  </li>
+    <li> 
+      Three Island 
+      <a href='https://three-island.vercel.app/'>   Demo </a> 
+      <a href='https://github.com/nihat-js/three-island'> Repo </a>    
+   </li>
 
   <li> Mina - e-commerce application with card feaure   =>  Vanilla JavaScript + local storage  <a href='https://nihat-js.github.io/mina/'> Demo </a>    </li>
   <li> Philantrophy <a href='https://nihat-js.github.io/philantrophy/'>  Demo </a>  </li>
