@@ -37,25 +37,28 @@
 
 <h3>  Apps </h3>
 <ul>
-   <li> Portfolio 1  <a href='https://nihat-js.github.io/portfolio-advanced/'> Demo </a> </li> 
-  <li> Portfolio 2  <a href='https://nihat-js.github.io/sublime-portfolio/'> Demo </a> </li> 
-  <li> Mina : e-commerce application with card feaure written with pure JavaScript ( local storage ) <a href='https://nihat-js.github.io/mina/'> Demo </a>    </li>
-  <li> Philantrophy : written with HTML,SCSS   <a href='https://nihat-js.github.io/philantrophy/'>  Demo </a>  </li>
+
+  <li> Mina - e-commerce application with card feaure   =>  Vanilla JavaScript + local storage  <a href='https://nihat-js.github.io/mina/'> Demo </a>    </li>
+  <li> Philantrophy <a href='https://nihat-js.github.io/philantrophy/'>  Demo </a>  </li>
   <li> 
-     Modern business : Written with react,react hooks, react-router  4 pages are active home,about,contact,pricing 
+     Modern business => React,React Router  
      <a href='https://modern-business-template.vercel.app/'>  Demo </a>
    </li>
    <li>
-      Countries : react+vite app written with  useReducer 
+      Countries List => React, React Router
       <a href='https://rest-countries-lime.vercel.app/'> Demo </a>  
       <a href='https://github.com/nihat-js/rest-countries' > Repo </a>  
     </li>    
    <li>
-      Baking Landing Page (HTML,CSS)  <a href='https://nihat-js.github.io/baking-landing-page/'> Demo </a> <a href='https://github.com/baking-landing-page/>Repo  </a>  </p>
+      Baking Landing Page <a href='https://nihat-js.github.io/baking-landing-page/'> Demo </a> <a href='https://github.com/baking-landing-page/>Repo  </a>  </p>
    </li>
 </ul>  
 
+<!---  
+ <li> Portfolio 1  <a href='https://nihat-js.github.io/portfolio-advanced/'> Demo </a> </li>  
+<li> Portfolio 2  <a href='https://nihat-js.github.io/sublime-portfolio/'> Demo </a> </li> 
 
+-->
    
 # 📊 GitHub Stats:
 
