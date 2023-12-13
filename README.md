@@ -17,15 +17,15 @@
 <h3> Packages</h3>
 <ul>
    <li> Neobit Package can be used as  JSON Server with (optional sample date) by installing global or as http server with cool syntax   
-      <a href="https://www.npmjs.com/package/neobit"> NPM Link </a>  </li>
+      <a href="https://www.npmjs.com/package/neobit"> NPM Link </a>  
+   </li>
 </ul>
 
 <h3>  Apps </h3>
 <ul>
-
-     <li> <a href=" https://nihatapi.vercel.app/"> MagicApi - alternative to jsonplaceholder  </li>
+   <li> <a href=" https://nihatapi.vercel.app/"> MagicAPI <a/> - alternative to jsonplaceholder   </li>
     <li> 
-      Three Island 
+      Three Island : Game with Three.js Library
       <a href='https://three-island.vercel.app/'>   Demo </a> 
       <a href='https://github.com/nihat-js/three-island'> Repo </a>    
    </li>
