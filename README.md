@@ -34,7 +34,8 @@
 
 <h3> Packages</h3>
 <ul>
-   <li> Neobit Package  </li>
+   <li> Neobit Package can be used as  JSON Server with (optional sample date) by installing global or as http server with cool syntax   
+      <a href="https://www.npmjs.com/package/neobit"> NPM Link </a>  </li>
 </ul>
 
 <h3>  Apps </h3>
