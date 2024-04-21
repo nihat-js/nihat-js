@@ -1,6 +1,6 @@
 <h3 align="center">Hi 👋, I'm Nihat</h3>
 
-🏠  Baku,Azerbaijan 
+
 <br>
 <br>
 
