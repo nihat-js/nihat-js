@@ -20,7 +20,7 @@
 <ul>
    <li>
       Word Station ( Play Store very soon ) - Explore cities and uncover hidden words in this level-based word game. 
-      <a href="https://github.com/nihat-js/wordstation-flutter">  (Repo) </a> 
+      <a href="https://github.com/nihat-js/wordstation-flutter">  Repo </a> 
    </li>
    <li>
       ???? - FPS Game (Very soon)
@@ -29,39 +29,40 @@
 
 <h3> Packages</h3>
 <ul>
-   <li> Neobit Package can be used as  JSON Server with (optional sample date) by installing global or as http server with cool syntax   
-      <a href="https://www.npmjs.com/package/neobit"> NPM Link </a>  
+   <li> 
+        <a href="https://www.npmjs.com/package/neobit"> Neobit server (NPM Package)  </a>  
+        - lightweight  http sever  can also  used as  JSON Server with (optional sample date) by installing global or    
    </li>
 </ul>
 
 <h3>  Web Apps </h3>
 <ul>
    <li>
-      <a href="#"> Buzlink </a> - URL shortening service (Vue + Express.js + MongoDB)  ( <a href="https://github.com/nihat-js/buzlink"> Repo </a>)
+      <a href="#"> Buzlink </a> - URL shortening service (Vue + Express.js + MongoDB)   <a href="https://github.com/nihat-js/buzlink"> Repo </a>
    </li>
    <li>
-      <a href="#"> Zaman </a> - Social media  Connect with friends on our social media platform, where you can share posts, comment, and chat in real time. 
+      <a href="#"> Zaman </a> -  Social media  Connect with friends on our social media platform, where you can share posts, comment, and chat in real time. 
       Express your opinions with upvotes and downvote (React, Express.js, Socket.io, MongoDB)  
-      ( <a href="https://github.com/nihat-js/buzlink"> Repo </a>)
+       <a href="https://github.com/nihat-js/buzlink"> Repo </a>
    </li>
    <li> 
-       <a href="https://nihatapi.vercel.app/"> Magic Api <a/> - alternative to jsonplaceholder  (  <a href="https://github.com/nihat-js/magicapi"> Repo </a> )   
+       <a href="https://nihatapi.vercel.app/"> Magic Api <a/> - alternative to jsonplaceholder    <a href="https://github.com/nihat-js/magicapi"> Repo </a> 
       </li>
     <li> 
       <a href="https://three-island.vercel.app/">  Three Island </a> : Game with Three.js Library
       <a href='https://github.com/nihat-js/three-island'> Repo </a>    
    </li>
 
-  <li>  <a href='https://nihat-js.github.io/mina/'> Mina - </a> 
-        e-commerce application =>  Vanilla JavaScript + local storage      </li>
+  <li>  <a href='https://nihat-js.github.io/mina/'> Mina  </a> 
+        - e-commerce application  (Vanilla JavaScript + local storage)      </li>
   <li>  <a href='https://nihat-js.github.io/philantrophy/'>  Philantrophy Landing Page </a>  </li>
   <li> 
-     <a href='https://modern-business-template.vercel.app/'>  Modern Business Landing Page - </a>
-     React,Tailwind
+     <a href='https://modern-business-template.vercel.app/'>  Modern Business Landing Page  </a>
+      - React,Tailwind
    </li>
     <li>
-       <a href='https://nihat-js.github.io/baking-landing-page/'> Baking Landing Page </a> 
-       <a href='https://github.com/baking-landing-page/'>(Repo)  </a> 
+       <a href='https://nihat-js.github.io/baking-landing-page/'> Baking  </a> 
+        - Landing Page <a href='https://github.com/baking-landing-page/'> Repo  </a> 
    </li>
    <!-- <li>
       Countries List => React, React 
