@@ -1,4 +1,4 @@
-<h3 align="center">Hi 👋, I'm  <a  target="_blan" href="https://nih1t.medium.com">  Nihat </a></h3>
+<h3 align="center">Hi 👋, I'm  <a  target="_blank" href="https://nih1t.medium.com">  Nihat </a></h3>
 
 
 <br>
