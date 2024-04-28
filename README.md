@@ -40,10 +40,10 @@
 <h3>  Web Apps </h3>
 <ul>
    <li>
-      <a href="#"> Buzlink </a> - URL shortening service (Vue + Express.js + MongoDB)   <a href="https://github.com/nihat-js/buzlink"> Repo </a>
+      <a href=""> Buzlink </a> - URL shortening service (Vue + Express.js + MongoDB)   <a href="https://github.com/nihat-js/buzlink"> Repo </a>
    </li>
    <li>
-      <a href="#"> Zaman </a> -  Social media  Connect with friends on our social media platform, where you can share posts, comment, and chat in real time. 
+      <a href=""> Zaman </a> -  Connect with friends on our social media platform, where you can share posts, comment, and chat in real time. 
       Express your opinions with upvotes and downvote (React, Express.js, Socket.io, MongoDB)  
        <a href="https://github.com/nihat-js/buzlink"> Repo </a>
    </li>
