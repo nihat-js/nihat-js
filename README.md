@@ -33,17 +33,17 @@
 <ul>
    <li> 
         <a href="https://www.npmjs.com/package/neobit"> Neobit server (NPM Package)  </a>  
-        - lightweight  http sever  can also  used as  JSON Server with (optional sample date) by installing global or    
+        - lightweight  http server (can also  used as  JSON Server with optional sample data by installing global) 
    </li>
 </ul>
 
 <h3>  Web Apps </h3>
 <ul>
    <li>
-      <a href=""> Buzlink </a> - URL shortening service (Vue + Express.js + MongoDB)   <a href="https://github.com/nihat-js/buzlink"> Repo </a>
+      <a href="#"> Buzlink </a> - URL shortening service (Vue + Express.js + MongoDB)   <a href="https://github.com/nihat-js/buzlink"> Repo </a>
    </li>
    <li>
-      <a href=""> Zaman </a> -  Connect with friends on our social media platform, where you can share posts, comment, and chat in real time. 
+      <a href="#"> Zaman </a> -  Connect with friends on our social media platform, where you can share posts, comment, and chat in real time. 
       Express your opinions with upvotes and downvote (React, Express.js, Socket.io, MongoDB)  
        <a href="https://github.com/nihat-js/buzlink"> Repo </a>
    </li>
