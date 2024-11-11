@@ -1,5 +1,6 @@
-<h3 align="center">Hi 👋, I'm  <a  target="_blank" href="https://nih1t.medium.com">  Nihat </a></h3>
+<h1 align="center">Hi 👋, I'm  Nihat </h1>
 
+<h3 align="center"> Visit my <a href="nihat.vercel.app/haqqimda"> website </a> or download my <a href="nihat.vercel.app/cv"> cv  <a/>  </h3>
 
 <br>
 <br>
