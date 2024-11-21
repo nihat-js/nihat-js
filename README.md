@@ -1,42 +1,20 @@
-<h1 align="center">Hi 👋, I'm  Nihat </h1>
-
-<h3 align="center"> Visit my <a href="https://nihat.vercel.app/"> website </a> or download my <a href="https://nihat.vercel.app/cv-nihat.pdf"> cv  <a/>  </h3>
-
-<br>
-<br>
+<h4 align="center">Hi, I'm  Nihat <h4>
+   
+<h5 align="center"> Visit my <a href="https://nihat.vercel.app/"> website </a> or download  <a href="https://nihat.vercel.app/cv-nihat.pdf"> CV  <a/>  </h5>
 
 
 
+<br><br>
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EE4623?style=for-the-badge&logo=codeigniter&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ![Vue](https://img.shields.io/badge/vue-%2320232a.svg?style=for-the-badge&logo=vue&logoColor=%2361DAFB) 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 	
-<br>
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EE4623?style=for-the-badge&logo=codeigniter&logoColor=white)
-<br>
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-<h3> Mobile Apps </h3>
-<ul>
-   <li>
-      Word Station ( Play Store very soon ) - Explore cities and uncover hidden words in this level-based word game. 
-      <a href="https://github.com/nihat-js/wordstation-flutter">  Repo </a> 
-   </li>
-   <li>
-      ???? - FPS Game (Very soon)
-   </li>
-</ul>
-
-<h3> Packages</h3>
-<ul>
-   <li> 
-        <a href="https://www.npmjs.com/package/neobit"> Neobit server (NPM Package)  </a>  
-        - lightweight  http server (can also  used as  JSON Server with optional sample data by installing global) 
-   </li>
-</ul>
 
 <h3>  Web Apps </h3>
 <ul>
@@ -67,15 +45,35 @@
        <a href='https://nihat-js.github.io/baking-landing-page/'> Baking  </a> 
         - Landing Page <a href='https://github.com/baking-landing-page/'> Repo  </a> 
    </li>
-   <!-- <li>
+   <<li>
       Countries List => React, React 
       <a href='https://rest-countries-lime.vercel.app/'> Demo </a>  
       <a href='https://github.com/nihat-js/rest-countries' > Repo </a>  
     </li>    
-  
-   -->
-   
 </ul>  
+
+
+
+
+<h3> Mobile Apps </h3>
+<ul>
+   <li>
+      Word Station ( Play Store very soon ) - Explore cities and uncover hidden words in this level-based word game. 
+      <a href="https://github.com/nihat-js/wordstation-flutter">  Repo </a> 
+   </li>
+   <li>
+      ???? - FPS Game (Very soon)
+   </li>
+</ul>
+
+<h3> Packages</h3>
+<ul>
+   <li> 
+        <a href="https://www.npmjs.com/package/neobit"> Neobit server (NPM Package)  </a>  
+        - lightweight  http server (can also  used as  JSON Server with optional sample data by installing global) 
+   </li>
+</ul>
+
 
  <li> Portfolio 1  <a href='https://nihat-js.github.io/portfolio-advanced/'> Demo </a> </li>  
 <li> Portfolio 2  <a href='https://nihat-js.github.io/sublime-portfolio/'> Demo </a> </li> 
