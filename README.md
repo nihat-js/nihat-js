@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm  Nihat </h1>
 
-<h3 align="center"> Visit my <a href="https://nihat.vercel.app/haqqimda"> website </a> or download my <a href="https://nihat.vercel.app/cv"> cv  <a/>  </h3>
+<h3 align="center"> Visit my <a href="https://nihat.vercel.app/"> website </a> or download my <a href="https://nihat.vercel.app/cv-nihat.pdf"> cv  <a/>  </h3>
 
 <br>
 <br>
