@@ -17,7 +17,7 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-<h3> My LeeetCode  </h3>
+<h3> My Leet Code  </h3>
  <li>
       <a href="https://github.com/nihat-js/my-leetcode"> Github Repo 
 </li>
