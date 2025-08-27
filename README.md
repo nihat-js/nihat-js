@@ -19,7 +19,7 @@
 
 <h3> My Leet Code  </h3>
  <li>
-      <a href="https://github.com/nihat-js/my-leetcode"> Github Repo 
+      <a href="https://github.com/nihat-js/my-leetcode"> Repo 
 </li>
 
 
@@ -32,11 +32,7 @@
       Express your opinions with upvotes and downvote (React, Express.js, Socket.io, MongoDB)  
        <a href="https://github.com/nihat-js/buzlink"> Repo </a>
    </li>
-   <li> 
-       <a href="https://nihatapi.vercel.app/"> Magic Api <a/> - alternative to jsonplaceholder    <a href="https://github.com/nihat-js/magicapi"> Repo </a> 
-      </li>
   
-
   <li>  <a href='https://nihat-js.github.io/mina/'> Mina  </a> 
         - e-commerce application  (Vanilla JavaScript + local storage)      </li>
   <li>  <a href='https://nihat-js.github.io/philantrophy/'>  Philantrophy Landing Page </a>  </li>
