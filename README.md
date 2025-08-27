@@ -17,10 +17,21 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-<h3> My Leet Code  </h3>
+<h3> LeetCode Solutions  </h3>
  <li>
       <a href="https://github.com/nihat-js/my-leetcode"> Repo 
 </li>
+
+
+<h3> Packages</h3>
+<ul>
+   <li> 
+        <a href="https://www.npmjs.com/package/neobit"> Neobit server (NPM Package)  </a>  
+        - lightweight  http server (can also  used as  JSON Server with optional sample data by installing global) 
+   </li>
+</ul>
+
+
 
 
 <h3>  Web Apps </h3>
@@ -51,17 +62,6 @@
 
 
 
-<h3> Packages</h3>
-<ul>
-   <li> 
-        <a href="https://www.npmjs.com/package/neobit"> Neobit server (NPM Package)  </a>  
-        - lightweight  http server (can also  used as  JSON Server with optional sample data by installing global) 
-   </li>
-</ul>
-
-
- <li> Portfolio 1  <a href='https://nihat-js.github.io/portfolio-advanced/'> Demo </a> </li>  
-<li> Portfolio 2  <a href='https://nihat-js.github.io/sublime-portfolio/'> Demo </a> </li> 
 
    
 # 📊 GitHub Stats:
